@@ -1,4 +1,4 @@
-tdrpg-bugs
+Reciplist_bug
 ==========
 
 This repo doesn't have any code, it's just a convenient dumping ground for any issues users might find in the test builds for DQ1-haxe and DQ2-haxe.
